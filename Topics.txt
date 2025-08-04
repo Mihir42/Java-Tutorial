@@ -1,0 +1,13 @@
+Object Oriented programming
+- Classes and Objects (Array of objects) - Done
+- Constructors (Overloaded) - Done
+- Static keyword - Done
+- Encapsulation (Getters and setters)
+- Inheritance (Super keyword, method overriding)
+- Polymorphism (Runtime polymorphism)
+- Abstraction
+- Interfaces
+- Aggregation and composition
+- Wrapper classes
+
+// Note the topics in the brackets are videos or sub topics nested in main topics
