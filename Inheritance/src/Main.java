@@ -3,22 +3,17 @@
 public class Main {
     public static void main(String[] args) {
         Radio standard = new Radio();
-        standard.switchOff();
-        standard.switchOn();
 
-        CheapRadio cheap = new CheapRadio();
-        cheap.setVolume(10);
-        cheap.setModulation("FM");
-        cheap.setRadioChannel(82);
+        CheapRadio cheap = new CheapRadio(10, "FM", 120);
+        ExpensiveRadio expensive = new ExpensiveRadio("AM", 80);
+        expensive.setVolume(100, "True");
+
         System.out.println(cheap.volume);
         System.out.println(cheap.modulation);
         System.out.println(cheap.radioChannel);
 
-        ExpensiveRadio expensive = new ExpensiveRadio();
-        expensive.setVolume(30);
         System.out.println(expensive.volume);
-        expensive.bluetooth("On");
-        System.out.println(expensive.bluetooth);
-        expensive.cd();
+        System.out.println(expensive.modulation);
+        System.out.println(expensive.radioChannel);
     }
 }

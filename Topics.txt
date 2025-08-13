@@ -3,7 +3,7 @@ Object Oriented programming
 - Constructors (Overloaded) - Done
 - Static keyword - Done
 - Encapsulation (Getters and setters) - Done
-- Inheritance (Super keyword, method overriding)
+- Inheritance (Super keyword, method overriding) - Done
 - Polymorphism (Runtime polymorphism)
 - Abstraction
 - Interfaces
