@@ -4,7 +4,7 @@ Object Oriented programming
 - Static keyword - Done
 - Encapsulation (Getters and setters) - Done
 - Inheritance (Super keyword, method overriding) - Done
-- Polymorphism (Runtime polymorphism)
+- Polymorphism (Runtime polymorphism) - Done
 - Abstraction
 - Interfaces
 - Aggregation and composition
