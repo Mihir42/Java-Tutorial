@@ -1,3 +1,8 @@
+/*
+Abstraction
+Good way to force sub classes to be written in intented way
+ */
+
 abstract class Mario {
 
     public void speak() {

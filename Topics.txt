@@ -5,7 +5,7 @@ Object Oriented programming
 - Encapsulation (Getters and setters) - Done
 - Inheritance (Super keyword, method overriding) - Done
 - Polymorphism (Runtime polymorphism) - Done
-- Abstraction
+- Abstraction - Done
 - Interfaces
 - Aggregation and composition
 - Wrapper classes
