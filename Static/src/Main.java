@@ -13,7 +13,7 @@ public class Main {
         mario.addCoins(5);
         luigi.addCoins(5);
 
-        // 2 Different ways of getting a static attribute,
+        // How to retrieve static attribute and method ,
         System.out.println(MarioCharacter.coins);
         MarioCharacter.getCoins();
     }

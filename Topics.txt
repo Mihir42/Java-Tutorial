@@ -1,13 +1,121 @@
-Object Oriented programming
-- Classes and Objects (Array of objects) - Done
-- Constructors (Overloaded) - Done
-- Static keyword - Done
-- Encapsulation (Getters and setters) - Done
-- Inheritance (Super keyword, method overriding) - Done
-- Polymorphism (Runtime polymorphism) - Done
-- Abstraction - Done
-- Interfaces
-- Aggregation and composition
-- Wrapper classes
+Basic Object Oriented programming
+- Classes and Objects - Done
+    Array of objects
 
-// Note the topics in the brackets are videos or sub topics nested in main topics
+- Constructors - Done
+    Overloaded
+    Super keyword
+
+- Access modifiers
+    Public
+    Default
+    Private
+    protected
+
+- Wrapper classes (Integer, Long, Float etc..)
+
+- Static keyword
+    Theory
+    Static Attributes
+    Static Methods
+    Static blocks
+    Static nested class
+    Static methods vs instance methods
+
+- Nested classes / Inner classes
+    Public and private
+    Static nested classes
+
+- Packages
+- Final keyword
+
+Advanced Object Oriented programming
+- Encapsulation
+    Theory
+    Getters and setters
+
+- Inheritance (Super keyword, method overriding) - Done
+    Super keyword
+    Method overriding
+    Single Inheritance
+    Multi Inheritance
+    Hierarchical Inheritance
+    Multiple Inheritance
+
+- Polymorphism (Runtime polymorphism) - Done
+    Multiple behaviours
+    Compile time polymorphism Method overriding
+    Runtime Polymorphism Method overloading
+    Runtime decision
+
+- Abstraction
+    Abstract classes
+    Abstract methods
+
+- Interfaces
+    Classes vs Interfaces
+    Abstraction vs Interfaces
+    Interfaces and inheritance
+    Functional Interfaces
+    Nested Interfaces
+    Marker Interfaces
+    Comparator Interfaces
+
+- Aggregation and composition
+- Object lifecycle
+- Pass by value vs pass by reference
+
+Java Collections
+    Java Collections framework
+    Collections class
+    List Interface, ArrayList, LinkedList
+    Set Interface, HashSet
+    Queue Interface, priority queue
+    Map, HashMap
+    Generics
+
+Java Strings
+    Immutable Strings
+    String class
+    String builder class
+
+Exception handling
+    Checked exceptions
+    Unchecked exceptions
+    Try catch blocks
+    Throw and throws
+    Custom exceptions
+    Chained exceptions
+    Null pointer exceptions
+    Exception handling with method overriding
+
+Testing
+- Unit testing
+    JUnit
+- Integration testing
+- Behaviour testing
+
+Java build tools
+- Maven
+- Gradle
+
+TOPICS DOWN BELOW ARE NOT WELL KNOW AND NEED TO BE RESEARCHED BEFORE GOING THROUGH THEM
+
+Java Multithreading (Seems like Java synchronisation is tied to multithreading)
+    Threads
+    Thread lifecycle
+    Threads safety
+
+Concurrency
+
+Lambda expressions
+
+Java Streams
+
+Java I/O
+- Java I/O Operations
+- File Operations
+
+Java Memory allocation
+
+// Find topics and then find sub topics within them, Java is quite big unsurprisingly
