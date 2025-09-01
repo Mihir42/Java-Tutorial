@@ -3,8 +3,10 @@ Basic Object Oriented programming
     Array of objects
 
 - Constructors - Done
-    Overloaded
-    Super keyword
+    Implicit default constructors
+    Explicit default constructors
+    Parameterised constructors
+    Overloaded constructors
 
 - Access modifiers
     Public

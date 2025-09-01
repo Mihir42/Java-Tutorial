@@ -1,0 +1,7 @@
+Constructors
+
+Used to initialize or construct a object
+Same name as class, no return types
+Needed to initialise a object to avoid the following:
+    Object having undefined values
+    Improper object state
