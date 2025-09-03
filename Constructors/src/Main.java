@@ -12,5 +12,6 @@ public class Main {
         Animal wolf = new Animal("Wolf", "Carnivour");
         Animal squirrel = new Animal("Squirrel", "Herbivour", "Mammel");
 
+        Employee employee = new Employee();
     }
 }
