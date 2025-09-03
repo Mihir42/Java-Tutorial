@@ -4,6 +4,7 @@ interface Fruit {
     public void colour(String colour);
     public void vitamins(String[] vitamins);
     public void shape(String shape);
+    public String getColour();
 
 }
 
@@ -20,6 +21,10 @@ class Apple implements Fruit {
 
     public void colour(String colour) {
         this.colour = colour;
+    }
+
+    public String getColour() {
+        return this.colour;
     }
 
     public void vitamins(String[] vitamins) {
