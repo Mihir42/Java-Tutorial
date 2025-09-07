@@ -8,13 +8,16 @@ Basic Object Oriented programming
     Parameterised constructors
     Overloaded constructors
 
-- Access modifiers
+- Access modifiers - Done
     Public
     Default
     Private
-    protected
+    Protected
 
-- Wrapper classes (Integer, Long, Float etc..)
+- Data types
+    Primitive data types
+    Non primitive data types
+    Wrapper classes (Integer, Long, Float etc..)
 
 - Static keyword
     Theory
@@ -30,6 +33,8 @@ Basic Object Oriented programming
 
 - Packages
 - Final keyword
+- Immutable vs immutable
+- Pass by value vs pass by reference
 
 Advanced Object Oriented programming
 - Encapsulation
