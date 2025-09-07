@@ -14,7 +14,7 @@ Basic Object Oriented programming
     Private
     Protected
 
-- Data types
+- Data types - Done
     Primitive data types
     Non primitive data types
     Wrapper classes (Integer, Long, Float etc..)
