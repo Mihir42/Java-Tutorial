@@ -14,6 +14,11 @@ Basic Object Oriented programming
     Private
     Protected
 
+- Non access modifiers - Done
+    Final
+    Abstract
+    Static
+
 - Data types - Done
     Primitive data types
     Non primitive data types

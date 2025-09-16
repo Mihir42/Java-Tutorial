@@ -1,4 +1,0 @@
-Public - Access to all classes
-Private - Access only within the class
-Protected - Access to same package and sub classes
-Default - Access to same packages
